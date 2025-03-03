@@ -30,7 +30,7 @@ import Resources from './Resources';
 import Exception from './Exception';
 import BaseReloc from './BaseReloc';
 import Debug from './Debug';
-import DataDirectory from './dataDirectory';
+import DataDirectory from './DataDirectory';
 import {
   fetchStringsData,
   fetchDosHeaderData,
